@@ -22,7 +22,7 @@
   	<div class="container">
   		<div class="row">
   			<div class="welcome col-lg-8">
-  				SELAMAT DATANG DI APLIKASI SALES FORECASTING MILIK APOTEK MARGO SARAS
+  				Selamat datang di aplikasi transaksi Apotek MIRA
   			</div>
 	    	<div class="form-login col-lg-4">
 	    		<form>
