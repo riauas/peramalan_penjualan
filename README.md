@@ -1,5 +1,8 @@
 # Aplikasi POS Apotek dan Peramalan Penjualan Obat dengan Metode Single Moving Average dan Single Exponential Smoothing
 Daftar fitur :
+- Database obat
+- Database supplier obat
+- Database pengguna aplikasi
 - Transaksi Penjualan Obat dan laporan
 - Transaksi Pembelian Obat dan laporan
 - Peramalan Angka Penjualan Obat untuk Periode Berikutnya
@@ -13,6 +16,6 @@ Hasil Peramalan diperoleh dari perbandingan hasil perhitungan dari kedua metode 
 
 Cara install di localhost :
 - Import database "db_apt_margosaras" ke dalam database anda.
-- Ubah data untuk koneksi ke localhost anda dengan mengubah file "koneksi.php".
+- Ubah data (user, password, nama DB) untuk koneksi ke localhost anda dengan mengubah file "koneksi.php".
 - Siap di akses melalui localhost.
 - username / pasword : admin / admin.
