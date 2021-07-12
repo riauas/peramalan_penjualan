@@ -16,9 +16,9 @@
 			<table class="tabel-nama-apotek-nopenjualan">
 				<tr>
 					<td>
-						<span class="nama_apotek">APOTEK MARGO SARAS</span><br>
-						Jl. Kebon Agung, Mriyan Kulon, Margomulyo, Kec. Seyegan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55561 <br>
-						(Telp) 0822-2775-5005
+						<span class="nama_apotek">Apotek MIRA</span><br>
+						Psr. Tanah Abang Blok F Lt.2 Los CKS No. 54, Jakarta Pusat, DKI Jakarta 10250 <br>
+						(Telp) 0856-127-9045
 					</td>
 					<td class="nopenjualan">
 						NOTA PENJUALAN <br> <?php echo $no_pjl; ?>
@@ -90,7 +90,7 @@
 			</table>
 		</div>
 		<div class="terimakasih">
-			TERIMA KASIH, SEMOGA OBAT YANG DIBELI DAPAT BERMANFAAT
+			TERIMA KASIH, SEMOGA LEKAS SEMBUH
 		</div>
 	</div>
 </page>
